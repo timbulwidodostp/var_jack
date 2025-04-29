@@ -1,6 +1,8 @@
 # var_jack
 Jackknife variance estimates of regression coefficients Use var_jack (pls) With (In) R Software
 
+https://www.youtube.com/watch?v=sjVhI7r4WSE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
